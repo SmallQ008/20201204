@@ -145,6 +145,7 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips:
   - cfbbd9186c98cfb4fac21e80ba9a1724
+  - 105b401737d674c42b631b89f63d7f58
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
@@ -654,7 +655,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 3
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 1
   additionalBone: 0
